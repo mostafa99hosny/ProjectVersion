@@ -7,5 +7,5 @@ git stash               //allow me to switch branches without commit changes
 
 git tag
 
-git tag -d v1.0          //delete local tags
-git push origin : v1.0   //delete remote tag
+git tag -d v1.7          //delete local tags
+git push origin : v1.7  //delete remote tag
